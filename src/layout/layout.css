@@ -1,0 +1,6 @@
+.imagem{
+    height: 60vh;
+    background-image: url('https://cdn.pixabay.com/photo/2018/07/06/04/38/technology-3519747_960_720.jpg');
+    background-position: center;
+    background-size: cover;
+}
