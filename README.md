@@ -4,4 +4,4 @@
 
 Link para o site:
 
-https://rta-easy.vercel.app/
+https://rta-easy-mocha.vercel.app/
