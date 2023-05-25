@@ -22,7 +22,7 @@ const Navigatior = () => {
             Tutorial
           </Nav.Link>
           <Nav.Link href='/download' style={{ marginRight: 20 }} active>
-            Dwonload
+            Download
           </Nav.Link>
           <Nav.Link href='/equipe' style={{ marginRight: 20 }} active>
             Equipe
