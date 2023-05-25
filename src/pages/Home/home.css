@@ -1,0 +1,15 @@
+.home-container {
+  width: 100%;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.capa {
+  height: 40vh;
+  background-image: url('https://cdn.pixabay.com/photo/2018/07/06/04/38/technology-3519747_960_720.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}

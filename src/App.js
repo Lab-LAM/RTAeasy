@@ -1,10 +1,15 @@
 import React from 'react';
-import Layout from './layout';
+import Footer from './components/Footer';
+import Navigation from './components/Navbar';
+import Rotas from './routes';
+import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <Layout/>
+      <Navigation/>
+      <Rotas/>
+      <Footer/>
     </div>
   );
 }
